@@ -1,0 +1,36 @@
+baseURL = "https://philwamba.github.io/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+isMultilingual = false
+title = "Phil Wamba"
+pygmentsStyle = "monokai" 
+theme = "sam"
+pygmentsCodefences = true
+# googleAnalytics = ""
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "favicon.ico"                          
+    footerText           = "Phil Wamba © 2020. All Rights Reserved."
+
+# Metadata for Open Graph and Twitter
+    description          = "Phil Wamba personal blog site"  
+    title                = "Phil Wamba"
+
+[[params.mainMenu]]
+    link = "/"
+    text = "Home"
+
+[[params.mainMenu]]
+    link = "/blog"
+    text = "Blog"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "About Me"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
