@@ -8,6 +8,7 @@ Hi, I'm Phil Wamba! I am passionate about creating solutions that make a global 
 - Fun Fact: I started from laboratory experiments and now I am coding applications that solve real-world problems.
 - Beyond work, I love exploring new ideas and learning about advancements in both science and technology.
 
+### 🚀 Tech Stack and Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -32,9 +33,9 @@ Hi, I'm Phil Wamba! I am passionate about creating solutions that make a global 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-FF3366?style=for-the-badge&logo=pestphp&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philwamba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
