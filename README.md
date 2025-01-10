@@ -2,7 +2,7 @@
 
 ### 😁 About Me
 
-Hi, I'm Phil Wamba! I am passionate about creating solutions that make a global impact. Currently, I work as a Full Stack Developer, handling projects in Laravel, Vue, React, Python, and other technologies. 
+Hi, I'm Phil Wamba! I am passionate about developing solutions that make a global impact. Currently, I work as a Full Stack Developer, handling projects in Laravel, Vue, React, Python, and other technologies. 
 
 - I enjoy combining my technical expertise with real-world problem-solving, like developing tools to help farmers tackle agricultural challenges.
 - Fun Fact: I started from laboratory experiments and now I am coding applications that solve real-world problems.
