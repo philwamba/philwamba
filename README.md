@@ -63,7 +63,7 @@ Hi, I'm Phil Wamba! I am passionate about developing solutions that make a globa
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philwamba&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philwamba&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Top Languages" />
 
 <br>
 
